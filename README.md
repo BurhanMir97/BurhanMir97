@@ -1,18 +1,18 @@
 ### Hi Developers 👋
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Rushikesh-red)](https://www.youtube.com/channel/UCvPZ5RQ6YSlHIamTcj9DyjA)
-[![Linkedin Badge](https://img.shields.io/badge/-Rushikesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/rushikesh-ingale-1a302b247/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Rushikesh-green)](https://twitter.com/Mr_Rushi7447)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Rushikesh-yellow)](https://stackoverflow.com/users/19969204/mr-rushikesh?tab=profile)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Burhan-red)](https://www.youtube.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Burhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/burhan-mir-466227210/)](https://www.linkedin.com/in/burhan-mir-466227210/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Burhan-green)](https://twitter.com/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Burhan-yellow)](https://stackoverflow.com/users/20026127/burhan-mir?tab=profile)
 
 I'm
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
-![Visitor Count](https://profile-counter.glitch.me/rushikesh/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/burhan/count.svg)
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rushikesh&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=burhan&column=7"/>
   </a>
 </div>
 
